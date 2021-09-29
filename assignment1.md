@@ -1,4 +1,6 @@
-# Jonathan Lehrfeld Final Class Project Pitch
+# Jonathan Lehrfeld Assignment 1 - Final Class Project Pitch & Data Critique
+
+# - Final Class Project Pitch - 
 
 ## Question to answer:
 
@@ -30,3 +32,25 @@
 ## Anything else important:
 
 ### This data can of course change year to year so it would be important to get accurate and up-to-date information that would reflect the D.C. ward with the highest cost of living explicitly for fall 2021.
+
+# - Data Reporting Critique on [DCist article](https://dcist.com/story/20/10/05/thousands-of-d-c-renters-are-evicted-every-year-do-they-all-know-to-show-up-to-court/) -
+
+## Clarity & Accuracy
+
+### 
+* Central insight = 3 / 5 
+* Main theme is that evictions had been suspended in D.C. as a result of the COVID-19 pandemic but pre this a large number of D.C. residents facing eviction in D.C. were not aware of their specific rights.
+* The headline was "Thousands Of D.C. Renters Are Evicted Every Year. Do They All Know To Show Up To Court?"
+* The data visualization was ...
+
+## Quality
+
+### The...
+
+## Type & Color
+
+### The...
+
+## Creativity
+
+### The...
