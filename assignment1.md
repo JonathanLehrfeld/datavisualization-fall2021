@@ -39,18 +39,31 @@
 
 ### 
 * Central insight = 3 / 5 
-* Main theme is that evictions had been suspended in D.C. as a result of the COVID-19 pandemic but pre this a large number of D.C. residents facing eviction in D.C. were not aware of their specific rights.
-* The headline was "Thousands Of D.C. Renters Are Evicted Every Year. Do They All Know To Show Up To Court?"
-* The data visualization was ...
+* I was not immediately aware of the central insight because the story opens with an anecdote that draws the reader in before explaining the core of the article, but a few graffs down I got there. The central insight was that in D.C. renters facing eviction often have a lot of rights, but it all rests on whether they are notified they need to come to court. The problem is however that in D.C. there are a limited number of "private process servers" who are hired by landlords to serve the eviction notices and two specific process servers who serve the majority of the region are lying (based on affadavits) about correctly serving these summons.
+* No this central theme was not necessarily in the headline, instead the headline posed a quesiton that the article answered regarding whether or not Washingtonians know to show up to court.
+* The only use of data visualization in this article was a short video clip of a Google Maps illustrating the number of homes the processor Stephens allegedly went to in his affadavit. 1/5
+* I think in part this was an effective was to visualize the data, to prove how absurd the claims from the process server are and that he was not really doing his job correctly. That being said, it could likely be improved still by by making it more ...
+* The accuracy of the data was likely ...
+* I questioned the accuracy of the data at ...
+* I would recommend the reporter check in with XXX. They did source their information from YYY.
+* Everything that needed explaining was ...
 
 ## Quality
 
-### The...
+###
+* Degree of quality = 3 / 5
+* What was done well: ...
+* Areas in need of improvement: ...
 
 ## Type & Color
 
-### The...
+### 
+* The type and color looked like they belonged together
+* My eyes were first drawn to the 
+* My rating for type would be
+* My rating for color would be
 
 ## Creativity
 
-### The...
+### 
+* The creative elements were used 
