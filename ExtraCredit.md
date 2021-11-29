@@ -1,0 +1,1 @@
+Here is a link to the initial article I read in the Washington Post about supply chain problems causing a shortage of Christmas tree supply (LINK HERE)[https://www.washingtonpost.com/business/2021/11/26/christmas-tree-shortage/]
