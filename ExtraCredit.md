@@ -3,3 +3,5 @@ Here is a link to the initial article I read in the Washington Post about supply
 The article references data the American Christmas Tree Association uses, which itself got its data from a report this past July from the US Department of Agriculture which I have [LINKED HERE](https://www.nass.usda.gov/Statistics_by_State/Washington/Publications/Current_News_Release/2021/xmas2020.pdf). The data I have chosen to visualize data from the last figure of the press release (on Page 3).
 
 Since the data was presented as a pdf I converted it first to Excel and then copied the data into Datawrapper to create the graphic.
+
+And [HERE](https://datawrapper.dwcdn.net/7Fgav/1/) is the link to the final graphic I created.
