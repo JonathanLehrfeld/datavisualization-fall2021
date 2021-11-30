@@ -4,4 +4,4 @@ The article references data the American Christmas Tree Association uses, which 
 
 Since the data was presented as a pdf I converted it first to Excel and then copied the data into Datawrapper to create the graphic. I chose the various green colors to resemble the color of Christmas trees. I also chose a different shade of green specifically for the overall number of trees to highlight the significance of that while some varities of trees may have had more or less planted in 2021 than in 2020, overall the total number of trees planted went down.
 
-And [HERE](https://datawrapper.dwcdn.net/7Fgav/1/) is the link to the final graphic I created.
+And [HERE](https://datawrapper.dwcdn.net/7Fgav/2/) is the link to the final graphic I created.
